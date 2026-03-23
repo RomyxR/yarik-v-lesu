@@ -5,6 +5,9 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-lists:
     runs-on: ubuntu-latest
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -22,11 +27,16 @@ jobs:
         run: pip install requests
 
       - name: Run script
-        run: python update.py
+        run: python update_lists.py
 
       - name: Commit and push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add black_list.txt white_list.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update" && git push)
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update lists"
+            git push
+          else
+            echo "No changes to commit"
+          fi
