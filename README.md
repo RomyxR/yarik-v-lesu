@@ -1,7 +1,7 @@
 # yarik-v-lesu
 Объединение нескольких репозиторев в с ключами для Xray. (также приложений v2rayn, v2rayng и т.п.)
 
-Автообновление через **GitHub Actions** каждые 2 часа.
+Автообновление через **GitHub Actions** каждый 1 час.
 
 **Репозитории**:
 - https://github.com/igareck/vpn-configs-for-russia/
