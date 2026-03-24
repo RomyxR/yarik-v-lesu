@@ -23,20 +23,19 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install requests
-        run: pip install requests
+      - name: Install dependencies
+        run: pip install requests geoip2
+      
+      - name: Install GeoLite2-Country.mmdb
+        run: curl -L "https://git.io/GeoLite2-Country.mmdb" -o GeoLite2-Country.mmdb
 
       - name: Run script
         run: python update.py
 
       - name: Commit and push
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add black_list.txt white_list.txt
-          if ! git diff --cached --quiet; then
-            git commit -m "Auto-update lists"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git commit -m "Auto-update lists" || echo "No changes to commit"
+          git push
