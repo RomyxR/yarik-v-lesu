@@ -12,3 +12,6 @@
 Белые списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/white_list.txt`
 
 Чёрные списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/black_list.txt`
+
+Для чёрных списков автоматически делается заголовок на подобии этого: `🇺🇸 | United States`.
+Страна определяеться через geoip2.
