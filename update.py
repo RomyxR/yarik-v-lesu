@@ -46,7 +46,7 @@ def preprocess_vpn_list(urls: list):
     raw_list = [item for sublist in results for item in sublist]
     return sorted(set(raw_list))
 
-# Сохроанение в файлы
+# Сохранение в файлы
 with open("black_list.txt", "w", encoding="utf-8") as f:
     vpn_list = sorted(filter(None, map(write_as_country, preprocess_vpn_list(black_urls))))
     f.write("\n".join(vpn_list))
