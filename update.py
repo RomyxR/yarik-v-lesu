@@ -4,7 +4,7 @@ import geoip2.database
 import socket
 import re
 
-DB_PATH = 'GeoLite2-Country.mmdb'
+READER = geoip2.database.Reader('GeoLite2-Country.mmdb')
 
 black_urls = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt",
@@ -21,26 +21,20 @@ white_urls = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt",
 ]
 
-def get_country(host: str):
-    if not host.replace('.', '').isdigit():
-        try:
-            host = socket.gethostbyname(host)
-        except Exception:
-            return "Unknown"
+def get_country(host):
+    try:
+        ip = host if host.replace('.', '').isdigit() else socket.gethostbyname(host)
+        r = READER.country(ip)
 
-    with geoip2.database.Reader(DB_PATH) as reader:
-        response = reader.country(host)
-    return response.country.name or "Unknown"
+        flag = ''.join(chr(127397 + ord(c)) for c in r.country.iso_code)
+        return f"{flag} | {r.country.name}"
+    except: return None
 
 def write_as_country(line: str):
-    pattern = r'(.*?://[^@]+@)([^#]+)(#)(.+)'
-    match = re.match(pattern, line)
-    
-    if not match: return line
-    
-    raw_link = list(match.groups())
-    raw_link[3] = get_country(raw_link[1].split(":")[0])
-    return "".join(raw_link).replace('?#', '#')
+    match = re.match(r'(.*?://[^@]+@)([^#]+)(#)(.+)', line)
+    if not match: return None
+    info = get_country(match.group(2).split(":")[0])
+    return f"{match.group(1)}{match.group(2)}#{info}".replace('?#', '#') if info else None
 
 def fetch(url: str):
     try: return [l for l in requests.get(url, timeout=10).text.splitlines() if l and not l.startswith("#")]
@@ -51,10 +45,12 @@ def preprocess_vpn_list(urls: list):
         results = list(executor.map(fetch, urls))
     raw_list = [item for sublist in results for item in sublist]
     return sorted(set(raw_list))
-   
 
+# Сохроанение в файлы
 with open("black_list.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(sorted(map(write_as_country, preprocess_vpn_list(black_urls)))))
+    vpn_list = sorted(filter(None, map(write_as_country, preprocess_vpn_list(black_urls))))
+    f.write("\n".join(vpn_list))
 
 with open("white_list.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(sorted(preprocess_vpn_list(white_urls))))
+    vpn_list = preprocess_vpn_list(white_urls)
+    f.write("\n".join(vpn_list))
