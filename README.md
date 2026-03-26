@@ -3,15 +3,15 @@
 
 Автообновление через **GitHub Actions** каждый 1 час.
 
-**Репозитории**:
+**Репозитории:**
 - https://github.com/igareck/vpn-configs-for-russia/
 - https://github.com/ebrasha/free-v2ray-public-list/
 - https://github.com/zieng2/wl/
 
 ### Подписки
-Белые списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/white_list.txt`
+⚪Белые списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/white_list.txt`
 
-Чёрные списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/black_list.txt`
+⚫Чёрные списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/black_list.txt`
 
-Для чёрных списков автоматически делается заголовок на подобии этого: `🇺🇸 | United States`.
+Для чёрных списков автоматически для удобства делается заголовок на подобии этого: `🇺🇸 | United States`.
 Страна определяеться через geoip2.
