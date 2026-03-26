@@ -10,8 +10,10 @@
 
 ### Подписки
 ⚪Белые списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/white_list.txt`
+⚪Проверенные белые списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/white_list_checked.txt`
 
 ⚫Чёрные списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/black_list.txt`
+⚫Проверенные чёрные списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/black_list_checked.txt`
 
 Для чёрных списков автоматически для удобства делается заголовок на подобии этого: `🇺🇸 | United States`.
 Страна определяеться через geoip2.
