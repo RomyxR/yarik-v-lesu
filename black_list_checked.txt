@@ -41,7 +41,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGU5MmY1Yy04MGQ1LTRjMDAtYjAyOC0xNjhmNzQ5M2MxOTc@uss.sudao888.xyz:51110#🇺🇸 | United States
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.105:8388#🇭🇰 | Hong Kong
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.80:8388#🇭🇰 | Hong Kong
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬 | Singapore
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#🇳🇱 | The Netherlands
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.151.57.112:38388#🇻🇳 | Vietnam
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.11:38388#🇻🇳 | Vietnam
@@ -424,7 +423,7 @@ vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?security=realit
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.161.70.10:443?security=reality&sni=wikihow.com&type=tcp&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&allowInsecure=0#🇺🇸 | United States
 vless://299d7042-bb13-442b-8985-c69d6ab83e6c@fi.vz-or.com:443?flow=xtls-rprx-vision&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&security=reality&sid=abbcd128&sni=sun9-36.userapi.com&type=tcp#🇫🇮 | Finland
 vless://3c3af80b-290e-426a-8ea0-b4a6d7a1830a@dex6.braidpro.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=awRzAyi5UF-DMXzlOLRZvKPaBt50Z0yZiaLeuSMbtFQ&sid=ae6775f14ccefa03&sni=dex6.braidpro.online&path=&host=#🇬🇧 | United Kingdom
-vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=93983a&sni=pass.qvinti.net&type=tcp#🇨🇾 | Cyprus
+vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=93983a&sni=pass.qvinti.net&type=tcp#🇦🇹 | Austria
 vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@188.253.22.2:443?encryption=none&path=%2F&security=none&type=ws#🇱🇻 | Latvia
 vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&security=reality&sid=c6&sni=www.google.com&type=tcp#🇰🇿 | Kazakhstan
 vless://4da4c9c7-a587-4894-bfa1-63e2c50aa21e@141.98.24.151:443?encryption=none&fp=chrome&pbk=GUykK5D2mcYcPS6SDQdzNYFE3EtKIMoYbSlcjij5yA0&security=reality&sid=e8&sni=www.google.com&type=tcp#🇳🇱 | The Netherlands
@@ -477,7 +476,6 @@ vless://c01733dd-3e58-4da9-910b-cdd4560295bc@94.103.0.92:2443?encryption=none&fp
 vless://c5a7ef27-9f32-4acf-bf28-6421fb579f9b@tr.morty02.shop:46567?encryption=none&security=none&type=tcp#🇹🇷 | Türkiye
 vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?encryption=none&host=vps.zakir.web.id&path=vless&security=none&type=ws#🇸🇬 | Singapore
 vless://ce540111-fd82-4459-b974-06d83beb01d5@87.120.165.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lV5fIH2s_069wG5vNewgNziNzg8z02nxe2wNaADlkB4&security=reality&sid=8aed6925&sni=www.microsoft.com&type=tcp#🇩🇪 | Germany
-vless://cef12ad2-fb16-4ace-ab26-2a026d40a7d2@144.31.74.41:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=LB2i67ErtJPlIIDeDHlGvSip6-qPJLH9HzYju5fZ32c&sid=2916&type=grpc#🇩🇪 | Germany
 vless://d08a63e7-dbea-4a36-a239-9f0b37a46b40@194.5.65.88:587?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7r9MsSx2CHwOw7C29CGPdoMj5oDf5TQ3zSWjLlhtRUo&security=reality&sid=d0debC9C5dE710e1&sni=cdn.jsdelivr.net&type=tcp#🇩🇪 | Germany
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.213.102:10121?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#🇬🇧 | United Kingdom
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@80.253.249.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&security=reality&sni=apple.com&type=tcp#🇩🇪 | Germany
