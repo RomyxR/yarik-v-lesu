@@ -429,7 +429,7 @@ vless://1f0a8364-ae34-07d0-b999-34a723111ebd@5.42.116.74:52006?encryption=none&f
 vless://23139ba6-14ab-4675-acbb-6c1692c2c61a@93.185.166.71:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y3f9ANzzBvO_n89wALWn6KrdLTqAf68MeLQdgSrxtks&security=reality&sid=3d385088cec747a4&sni=eh.vk.com&type=tcp#🇷🇺 | Russia
 vless://26524cce-d514-4014-a426-365fb266a14d@2.59.183.198:443?flow=&fp=random&host=_acme-challenge.443888.xyz&path=%2Fdanfeng&security=tls&sni=_acme-challenge.443888.xyz&type=ws#🇳🇱 | The Netherlands
 vless://3c3af80b-290e-426a-8ea0-b4a6d7a1830a@x27.braidpro.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=2MH3yqQ1lpvQTrvBwuguCvyjVfoMNdlPhTRDh_RY_C0&sid=ae6775f14ccefa03&sni=x27.braidpro.online&path=&host=#🇳🇱 | The Netherlands
-vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=93983a&sni=pass.qvinti.net&type=tcp#🇨🇾 | Cyprus
+vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=93983a&sni=pass.qvinti.net&type=tcp#🇦🇹 | Austria
 vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@188.253.22.2:443?encryption=none&path=/&security=none&type=ws#🇱🇻 | Latvia
 vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?encryption=none&fp=chrome&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&security=reality&sid=4830d187&sni=www.sony.com&type=tcp#🇫🇮 | Finland
 vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&security=reality&sid=c6&sni=www.google.com&type=tcp#🇰🇿 | Kazakhstan
