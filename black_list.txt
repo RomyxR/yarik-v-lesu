@@ -74,16 +74,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg007168e8p.cybervena.com:50099#🇹🇼 | Taiwan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 | Finland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇱🇹 | Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇱🇹 | Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇱🇹 | Lithuania
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#🇱🇻 | Latvia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#🇳🇱 | The Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 | United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 | United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🇿🇦 | South Africa
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🇿🇦 | South Africa
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMDJYOXA5Q3FuM0ljNGw2UHlKTUY4@185.223.82.82:10021#🇪🇸 | Spain
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#🇸🇬 | Singapore
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#🇳🇱 | The Netherlands
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.151.57.112:38388#🇻🇳 | Vietnam
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.11:38388#🇻🇳 | Vietnam
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.139:38388#🇻🇳 | Vietnam
@@ -390,9 +388,9 @@ ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw@144.126.145.77:443#🇺🇸 | United
 ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw@154.53.60.212:80#🇺🇸 | United States
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@50.62.88.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@199.181.197.38:443/?plugin=v2ray-plugin;mode=websocket;path=3e96ef7d-8637-42c2-ac73-75182196e755/?ed=2560;mux=0;skip-cert-verify=true;host=mfvpn.fuchen.indevs.in;tls;sni=Telegram🇨🇳 @WangCai2#🇺🇸 | United States
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:3057?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 | Japan
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:4937?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 | Japan
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4380?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 | Japan
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#🇺🇸 | United States
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#🇦🇱 | Albania
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#🇺🇸 | United States
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#🇺🇸 | United States
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n3.chateditimage.com:443?security=tls&sni=n3.chateditimage.com#🇺🇸 | United States
@@ -462,6 +460,7 @@ vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.105.161.54:12345?allowInsecure=0&sni=snippet.chinat.eu.cc&alpn=http/1.1&type=ws&host=snippet.chinat.eu.cc&path=/danfengfp=random&security=tls#🇹🇼 | Taiwan
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@178.173.248.248:443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.dedyn.io&alpn=http%2F1.1%0A&sni=snippet.danfeng.dedyn.io&fp=chrome#🇳🇱 | The Netherlands
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@179.61.132.16:443?path=%2Fdanfeng&security=tls&alpn=http%2F1.1&encryption=none&host=snippet.danfeng.gv.uy&fp=random&type=ws&sni=snippet.danfeng.gv.uy#🇩🇪 | Germany
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.87.245.253:443?&security=tls&sni=snippet.danfeng.kozow.com&type=ws&headerType=none&host=snippet.danfeng.kozow.com&path=%2Fdanfeng%3Fed%3D2560#🇮🇪 | Ireland
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@211.245.68.145:10088?&security=tls&fp=chrome&sni=snippet.danfeng.theworkpc.com&type=ws&headerType=none&host=snippet.danfeng.theworkpc.com&path=%2Fdanfeng%3Fed%3D2560#🇰🇷 | South Korea
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@27.119.233.90:10035?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.theworkpc.com&sni=snippet.danfeng.theworkpc.com&fp=chrome#🇰🇷 | South Korea
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@58.239.240.58:10333?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.gleeze.com&alpn=http%2F1.1%0A&sni=snippet.danfeng.gleeze.com&fp=chrome#🇰🇷 | South Korea
