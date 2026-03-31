@@ -22,21 +22,6 @@ white_urls = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt",
 ]
 
-
-ALLOWED_SCHEMES = ['vless', 'ss', 'trojan', 'hysteria2']
-
-def check_link(link):
-    try:
-        parsed = urlparse(link.strip())
-        if parsed.scheme not in ALLOWED_SCHEMES:
-            return None
-        netloc = parsed.netloc.split('@')[-1]
-        host, port = netloc.split(':')
-        with socket.create_connection((host, int(port)), timeout=3):
-            return link
-    except Exception:
-        return None
-
 def get_country(host):
     try:
         ip = host if host.replace('.', '').isdigit() else socket.gethostbyname(host)
@@ -69,18 +54,4 @@ with open("black_list.txt", "w", encoding="utf-8") as f:
 
 with open("white_list.txt", "w", encoding="utf-8") as f:
     vpn_list = preprocess_vpn_list(white_urls)
-    f.write("\n".join(vpn_list))
-
-with open("black_list_checked.txt", "w", encoding="utf-8") as f:
-    processed_urls = map(write_as_country, preprocess_vpn_list(black_urls))
-    with ThreadPoolExecutor() as executor:
-        results = executor.map(check_link, processed_urls)
-    vpn_list = sorted(filter(None, results))
-    f.write("\n".join(vpn_list))
-
-with open("white_list_checked.txt", "w", encoding="utf-8") as f:
-    processed_urls = preprocess_vpn_list(white_urls)
-    with ThreadPoolExecutor() as executor:
-        results = executor.map(check_link, processed_urls)
-    vpn_list = sorted(filter(None, results))
     f.write("\n".join(vpn_list))
