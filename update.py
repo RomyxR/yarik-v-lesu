@@ -2,8 +2,7 @@ import requests
 from concurrent.futures import ThreadPoolExecutor
 import geoip2.database
 import socket
-import re
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 
 READER = geoip2.database.Reader('GeoLite2-Country.mmdb')
 
@@ -22,9 +21,18 @@ white_urls = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt",
 ]
 
-def get_country(host):
+def get_host_ip(line: str):
+    host = urlparse(line).hostname
+    ip = host if host.replace('.', '').isdigit() else socket.gethostbyname(host)
+    return ip
+
+def parse_sni(line: str):
+    return parse_qs(urlparse(line).query).get('sni', [""])[0]
+
+def get_country(line: str):
     try:
-        ip = host if host.replace('.', '').isdigit() else socket.gethostbyname(host)
+        ip = get_host_ip(line)
+        if not ip: return None
         r = READER.country(ip)
 
         flag = ''.join(chr(127397 + ord(c)) for c in r.country.iso_code)
@@ -32,10 +40,9 @@ def get_country(host):
     except: return None
 
 def write_as_country(line: str):
-    match = re.match(r'(.*?://[^@]+@)([^#]+)(#)(.+)', line)
-    if not match: return None
-    info = get_country(match.group(2).split(":")[0])
-    return f"{match.group(1)}{match.group(2)}#{info}".replace('?#', '#') if info else None
+    info = get_country(line)
+    link = line.rsplit("#", 1)[0]
+    return f"{link}#{info} {'SNI='+parse_sni(line) if parse_sni(line)!='' else ''}" if info else None
 
 def fetch(url: str):
     try: return [l for l in requests.get(url, timeout=10).text.splitlines() if l and not l.startswith("#")]
@@ -53,5 +60,5 @@ with open("black_list.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(vpn_list))
 
 with open("white_list.txt", "w", encoding="utf-8") as f:
-    vpn_list = preprocess_vpn_list(white_urls)
+    vpn_list = sorted(filter(None, map(write_as_country, preprocess_vpn_list(white_urls))))
     f.write("\n".join(vpn_list))
