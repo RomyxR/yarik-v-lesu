@@ -13,5 +13,5 @@
 
 ⚫Чёрные списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/black_list.txt`
 
-Для чёрных списков автоматически для удобства делается заголовок на подобии этого: `🇺🇸 | United States`.
+Для чёрных и белых списков автоматически для удобства делается заголовок на подобии этого: `🇺🇸 | United States`. А если ещё есть sni то такой: `🇺🇸 | United States SNI=google.com`
 Страна определяеться через geoip2.
