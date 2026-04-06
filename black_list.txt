@@ -139,7 +139,7 @@ vless://26524cce-d514-4014-a426-365fb266a14d@49.238.238.152:2096?&security=tls&f
 vless://26524cce-d514-4014-a426-365fb266a14d@49.238.238.152:2096?encryption=none&security=tls&sni=snippet.danfeng.com.cfd&fp=random&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.com.cfd&path=%2Fdanfeng%3Fed%3D2560#🇰🇷 | South Korea SNI=snippet.danfeng.com.cfd
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🇳🇱 | The Netherlands SNI=ams1.fromblancwithlove.com
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#🇬🇧 | United Kingdom 
-vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@in-pl-hn.ray-proxy.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#🇪🇪 | Estonia SNI=eh.vk.com
+vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@in-pl-hn.ray-proxy.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#🇵🇱 | Poland SNI=eh.vk.com
 vless://438f81f8-aa18-4261-820a-87ee42122d0e@212.227.95.106:443?type=tcp&security=reality&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&fp=chrome&sni=yahoo.com&sid=a0cb&spx=/#🇪🇸 | Spain SNI=yahoo.com
 vless://443d07a7-205c-4191-9a25-86494e1b18fe@124.244.48.40:443?fp=chrome&host=video.livecut.cc&path=/video&security=tls&sni=video.livecut.cc&type=ws#🇭🇰 | Hong Kong SNI=video.livecut.cc
 vless://443d07a7-205c-4191-9a25-86494e1b18fe@video.livecut.cc:443?encryption=none&type=ws&host=video.livecut.cc&path=%2Fvideo&security=tls#🇭🇰 | Hong Kong 
