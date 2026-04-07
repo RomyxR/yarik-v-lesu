@@ -8,7 +8,6 @@ hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflar
 hysteria2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&insecure=1&allowInsecure=1#🇳🇱 | The Netherlands SNI=www.cloudflare.com
 hysteria2://123456789StrongPass@144.31.224.14:443?upmbps=10&downmbps=50&security=tls&sni=eh.%40solidtrust.com&allowInsecure=true#🇳🇱 | The Netherlands SNI=eh.@solidtrust.com
 hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?insecure=1&sni=www.bing.com#🇺🇸 | United States SNI=www.bing.com
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=1#🇯🇵 | Japan SNI=iij.mggl.wang
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=1&allowInsecure=1#🇯🇵 | Japan SNI=iij.mggl.wang
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷 | France SNI=www.microsoft.com
 hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 | France SNI=www.microsoft.com
@@ -88,7 +87,6 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 | Switzer
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬 | Bulgaria 
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#🇨🇴 | Colombia 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@1.232.206.121:14399?plugin=v2ray-plugin;mode=websocket;host=ylnhh.us.ci;path=14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560;tls;mux=0#🇰🇷 | South Korea 
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@103.15.90.134:49678/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇻🇳 | Vietnam 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@103.43.191.121:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇸🇬 | Singapore 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@104.238.70.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@154.194.0.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇸🇨 | Seychelles 
@@ -96,10 +94,7 @@ ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@158.51.109.218:443?
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@160.153.137.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@198.12.144.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@198.71.188.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@209.17.118.112:20524/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇸🇬 | Singapore 
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@216.205.52.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@45.40.147.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@50.62.88.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@50.62.90.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@69.84.182.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@78.40.216.169:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇩🇪 | Germany 
@@ -114,14 +109,11 @@ ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@206.190.235.108:443
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@31.58.226.196:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@31.58.50.110:2053/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇺🇸 | United States 
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@47.237.71.245:15430/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇸🇬 | Singapore 
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@47.76.146.102:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇭🇰 | Hong Kong 
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@77.110.96.166:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇸🇪 | Sweden 
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@8.219.154.217:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇸🇬 | Singapore 
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@91.223.169.88:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇸🇪 | Sweden 
 ss://bm9uZTpUZWxlZ3JhbfCfh6jwn4ezIEBXYW5nQ2FpMg@152.32.171.162:443?plugin=v2ray-plugin;mode=websocket;path=14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed=2560;mux=0;skip-cert-verify=true;host=ylnhh.us.ci;tls;sni=Telegram🇨🇳 @WangCai2#🇭🇰 | Hong Kong 
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬 | Singapore SNI=ubu.okaoclax.me
-trojan://6d00fde742644d11@khk9527.vision.jp.eu.org:99?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇭🇰 | Hong Kong 
-trojan://6d00fde742644d11@khk9527.vision.jp.eu.org:99?security=tls&sni=khk9527.vision.jp.eu.org&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇭🇰 | Hong Kong SNI=khk9527.vision.jp.eu.org
 trojan://88888888@tj.oopscat.com:7443?security=tls&sni=tj.oopscat.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇭🇰 | Hong Kong SNI=tj.oopscat.com
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#🇯🇵 | Japan SNI=www.nintendogames.net
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:3057?security=tls&sni=www.nintendogames.net#🇯🇵 | Japan SNI=www.nintendogames.net
