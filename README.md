@@ -7,6 +7,7 @@
 - https://github.com/igareck/vpn-configs-for-russia/
 - https://github.com/ebrasha/free-v2ray-public-list/
 - https://github.com/zieng2/wl/
+- https://github.com/roosterkid/openproxylist/
 
 ### Подписки
 ⚪Белые списки: `https://raw.githubusercontent.com/RomyxR/yarik-v-lesu/refs/heads/main/white_list.txt`
