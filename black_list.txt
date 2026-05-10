@@ -73,8 +73,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007134n4g.cybervena.com:50099#🇹🇼 | Taiwan 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#🇹🇼 | Taiwan 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#🇹🇼 | Taiwan 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.230.5.241:50099#🇹🇼 | Taiwan 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.230.5.241:50099#🇹🇼 | Taiwan 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg0034686rw.cybervena.com:50099#🇹🇼 | Taiwan 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg0034686rw.cybervena.com:50099#🇹🇼 | Taiwan 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#🇹🇼 | Taiwan 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#🇹🇼 | Taiwan 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotem5rZ0dDbU5GNTRINVdJclVDR3F3@45.76.86.24:1080#🇩🇪 | Germany 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotem5rZ0dDbU5GNTRINVdJclVDR3F3@45.76.86.24:1080#🇩🇪 | Germany 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#🇬🇧 | United Kingdom 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#🇬🇧 | United Kingdom 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 | Finland 
@@ -93,6 +97,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#🇺🇸 | United States 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#🇺🇸 | United States 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#🇺🇸 | United States 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443#🇿🇦 | South Africa 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443#🇿🇦 | South Africa 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 | United Kingdom 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 | United Kingdom 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQzBHYmlDazY3SzhuSERhREhtWUlY@159.223.236.36:19582#🇳🇱 | The Netherlands 
@@ -109,8 +115,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#🇬🇧 | United Kingdom 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.131:8080#🇬🇧 | United Kingdom 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.131:8080#🇬🇧 | United Kingdom 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.135:8080#🇬🇧 | United Kingdom 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.135:8080#🇬🇧 | United Kingdom 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.134:8080#🇬🇧 | United Kingdom 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.134:8080#🇬🇧 | United Kingdom 
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223#🇭🇰 | Hong Kong 
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223#🇭🇰 | Hong Kong 
 ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg==@195.58.49.26:60129#🇷🇺 | Russia 
@@ -177,13 +183,13 @@ trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaint
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇪 | Sweden SNI=yespaintstudio.rav-kraski.ru
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇪 | Sweden SNI=yespaintstudio.rav-kraski.ru
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?type=tcp&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22brutal%22%2C%22brutalUp%22%3A%22500+mbps%22%2C%22brutalDown%22%3A%22500+mbps%22%2C%22initStreamReceiveWindow%22%3A8388608%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIncomingStreams%22%3A1024%7D%7D&security=tls&fp=qq&alpn=h2%2Chttp%2F1.1&sni=yespaintstudio.rav-kraski.ru#🇸🇪 | Sweden SNI=yespaintstudio.rav-kraski.ru
-trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇯🇵 | Japan SNI=t.me/ripaojiedian
-trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇯🇵 | Japan SNI=t.me/ripaojiedian
 trojan://IcmHM26RLwKqSGSBYAOHfw@216.105.168.58:443?security=none&type=ws&headerType=&path=/&host=telegram.org&prefix= ┬и#🇺🇸 | United States 
 trojan://SPHq7KTtZr6_V5z4UeqJYg@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 | United States 
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇨🇭 | Switzerland SNI=www.calmlunch.com
 trojan://pOsyxvhB6aMIS8Yq_JZgjg@66.23.207.68:443?security=none&type=ws&headerType=&path=/&host=telegram.org&prefix= ¨#🇺🇸 | United States 
 trojan://pvgdMYdDKY@yespaintstudio.rav-kraski.ru:56048?security=none&fp=chrome&type=xhttp&path=/56048/media&host=yespaintstudio.rav-kraski.ru&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇸🇪 | Sweden 
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#🇦🇲 | Armenia SNI=xo.e0f.cx
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#🇦🇲 | Armenia SNI=xo.e0f.cx
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇨🇿 | Czechia SNI=xo.e0f.cx
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇨🇿 | Czechia SNI=xo.e0f.cx
 trojan://r49gssuondznyu2eex83@14.1.28.76:50740?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#🇺🇸 | United States 
@@ -222,8 +228,6 @@ vless://24e553da-1831-Fade-b6af-1061a5051bf4@109.236.57.8:8443?encryption=none&t
 vless://24e553da-1831-Fade-b6af-1061a5051bf4@109.236.57.8:8443?type=grpc&security=tls&fp=qq&sni=vyrrh-ru-24sel.r-fade.cfd&alpn=h2,http/1.1#🇷🇺 | Russia SNI=vyrrh-ru-24sel.r-fade.cfd
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 | Austria SNI=austria.denditop.site
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 | Austria SNI=austria.denditop.site
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?security=reality&encryption=none&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fr.denditop.site&sid=9c2378562188c3cb#🇫🇷 | France SNI=fr.denditop.site
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?security=reality&encryption=none&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fr.denditop.site&sid=9c2378562188c3cb#🇫🇷 | France SNI=fr.denditop.site
 vless://26524cce-d514-4014-a426-365fb266a14d@103.20.223.218:443?fp=firefox&host=psp09.data.chinav.eu.org&path=%2Fdanfeng&security=tls&sni=psp09.data.chinav.eu.org&type=ws#🇭🇰 | Hong Kong SNI=psp09.data.chinav.eu.org
 vless://26524cce-d514-4014-a426-365fb266a14d@103.27.77.131:30005?allowInsecure=0&sni=psp09.data.chinav.eu.org&type=ws&host=psp09.data.chinav.eu.org&path=/danfengfp=firefox&security=tls#🇭🇰 | Hong Kong SNI=psp09.data.chinav.eu.org
 vless://26524cce-d514-4014-a426-365fb266a14d@104.252.127.63:2053?fp=firefox&host=psp09.data.chinav.eu.org&path=%2Fdanfeng&security=tls&sni=psp09.data.chinav.eu.org&type=ws#🇫🇮 | Finland SNI=psp09.data.chinav.eu.org
@@ -280,8 +284,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#🇬🇧 | United Kingdom 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#🇬🇧 | United Kingdom 
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@109.172.91.53:8443?type=tcp&security=reality&encryption=none&pbk=1T8Qj4onpdi52VKasgf-MhKiVRydOe9IG0WDtaJRi3A&fp=chrome&sni=www.tesla.com&sid=44&spx=%2F&flow=xtls-rprx-vision#🇷🇺 | Russia SNI=www.tesla.com
-vless://3a1d7c1d-09c6-4c81-8e11-75dd4ab1ac07@hk1.ap221.com:443?sni=hk.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇭🇰 | Hong Kong SNI=hk.ap221.com
-vless://3a1d7c1d-09c6-4c81-8e11-75dd4ab1ac07@hk1.ap221.com:443?sni=hk.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇭🇰 | Hong Kong SNI=hk.ap221.com
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🇹🇭 | Thailand 
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🇹🇭 | Thailand 
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&security=none&path=/ws#🇹🇭 | Thailand 
@@ -334,12 +336,14 @@ vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@107.161.174.165:7443?fp=chrome&sid=
 vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@152.53.165.20:7443?sni=chat.deepseek.com&type=tcp&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&flow=xtls-rprx-vision#🇺🇸 | United States SNI=chat.deepseek.com
 vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@185.117.0.98:7443?type=tcp&headerType=none&security=reality&encryption=none&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&flow=xtls-rprx-vision#🇳🇱 | The Netherlands SNI=chat.deepseek.com
 vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@45.67.139.102:7443?flow=xtls-rprx-vision&sid=be0ce047&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sni=chat.deepseek.com&type=tcp&fp=chrome&security=reality#🇫🇷 | France SNI=chat.deepseek.com
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.158.68.235:20000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.158.68.235:20000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.165.93.96:20332?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.165.93.96:20332?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.184:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#🇺🇸 | United States SNI=sni.111000.dynv6.net
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.184:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#🇺🇸 | United States SNI=sni.111000.dynv6.net
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@112.170.171.170:10443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@112.170.171.170:10443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.165.93.96:33338?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.165.93.96:33338?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@125.130.201.117:10250?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@125.130.201.117:10250?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#🇺🇸 | United States SNI=sni.111000.dynv6.net
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#🇺🇸 | United States SNI=sni.111000.dynv6.net
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 | United States SNI=sni.my111000.tech
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🇺🇸 | United States SNI=sni.my111000.tech
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 | United States SNI=sni.my111000.tech
@@ -348,16 +352,10 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:443?allowInsecure=1&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#🇮🇳 | India SNI=sni.111000.v6.navy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#🇮🇳 | India SNI=sni.111000.v6.navy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.154.245.84:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3&host=sni.latonyamadeline.ndjp.net&sni=sni.latonyamadeline.ndjp.net&encryption=none#🇺🇸 | United States SNI=sni.latonyamadeline.ndjp.net
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.23:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#🇺🇸 | United States SNI=sni.111000.dynv6.net
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.23:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#🇺🇸 | United States SNI=sni.111000.dynv6.net
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 | United States SNI=sni.my111000.tech
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 | United States SNI=sni.my111000.tech
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:2096?host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 | United States SNI=sni.my111000.tech
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:443?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 | United States SNI=sni.my111000.tech
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?path=/?Telegram🇨🇳@WangCai2=&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇭🇷 | Croatia SNI=sni.111000.indevs.in
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?path=/?Telegram🇨🇳@WangCai2=&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇭🇷 | Croatia SNI=sni.111000.indevs.in
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.123.86.198:27015?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.123.86.198:27015?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 | South Korea SNI=sni.111000.v6.army
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.129.196.191:2096?type=ws&security=tls&sni=sni.my111000.tech&host=sni.my111000.tech#🇬🇧 | United Kingdom SNI=sni.my111000.tech
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.129.197.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🇬🇧 | United Kingdom SNI=sni.my111000.tech
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.26.27.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🇬🇧 | United Kingdom SNI=sni.my111000.tech
@@ -435,9 +433,9 @@ vless://7fa1c366-208f-Fade-92db-50a819e88fd8@109.236.57.8:8443?alpn=h2&fp=qq&sec
 vless://7fa1c366-208f-Fade-92db-50a819e88fd8@109.236.57.8:8443?type=grpc&security=tls&fp=qq&sni=vyrrh-ru-24sel.r-fade.cfd&alpn=h2,http/1.1#🇷🇺 | Russia SNI=vyrrh-ru-24sel.r-fade.cfd
 vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@185.128.106.14:51820?type=ws&security=tls&sni=edt2-lgy.pages.dev&host=edt2-lgy.pages.dev#🇷🇺 | Russia SNI=edt2-lgy.pages.dev
 vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@74.48.4.29:37731?type=ws&security=tls&sni=edt2-lgy.pages.dev&host=edt2-lgy.pages.dev#🇺🇸 | United States SNI=edt2-lgy.pages.dev
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#🇯🇵 | Japan SNI=dongjing4.zqjsqapi.com
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#🇯🇵 | Japan SNI=dongjing4.zqjsqapi.com
 vless://8f18a1a9-dee6-4ba8-8edd-7f8574777b59@skynode-germany.duckdns.org:2053?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=qURsRyIC4cOFGTEcRC3gTLW2zLP5Svu93Hn-bBlGfiY&sid=0123456789abcdef&flow=xtls-rprx-vision#🇺🇸 | United States SNI=www.microsoft.com
-vless://8f25d191-c31c-4d07-86ec-db01fe1085d9@london1.ap221.com:443?sni=london.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇧 | United Kingdom SNI=london.ap221.com
-vless://8f25d191-c31c-4d07-86ec-db01fe1085d9@london1.ap221.com:443?sni=london.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇧 | United Kingdom SNI=london.ap221.com
 vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇦🇹 | Austria SNI=chat.deepseek.com
 vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇦🇹 | Austria SNI=chat.deepseek.com
 vless://92b6e169-3574-Fade-affb-425baa8460a4@109.236.57.8:8443?encryption=none&type=grpc&security=tls&mode=gun&fp=qq&sni=vyrrh-ru-24sel.r-fade.cfd#🇷🇺 | Russia SNI=vyrrh-ru-24sel.r-fade.cfd
@@ -446,6 +444,8 @@ vless://92b6e169-3574-Fade-affb-425baa8460a4@109.236.57.8:8443?type=grpc&securit
 vless://95e647ae-12ac-Fade-867b-c9e089899a11@109.236.57.8:8443?alpn=h2&fp=qq&security=tls&sni=vyrrh-ru-24sel.r-fade.cfd&type=grpc#🇷🇺 | Russia SNI=vyrrh-ru-24sel.r-fade.cfd
 vless://95e647ae-12ac-Fade-867b-c9e089899a11@109.236.57.8:8443?alpn=h2&security=tls&sni=vyrrh-ru-24sel.r-fade.cfd&type=grpc#🇷🇺 | Russia SNI=vyrrh-ru-24sel.r-fade.cfd
 vless://95e647ae-12ac-Fade-867b-c9e089899a11@109.236.57.8:8443?type=grpc&security=tls&fp=qq&sni=vyrrh-ru-24sel.r-fade.cfd&alpn=h2,http/1.1#🇷🇺 | Russia SNI=vyrrh-ru-24sel.r-fade.cfd
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇺🇸 | United States SNI=babayaga-6i7.pages.dev
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇺🇸 | United States SNI=babayaga-6i7.pages.dev
 vless://996de477-3413-445f-bce2-822d620727f0@185.117.91.161:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=C91UR1t1rWUndIL-t33u9yTGuWLtYXaAPOUJyMLy6lI&sid=9523cce221e9&sni=cloudflare.com#🇳🇱 | The Netherlands SNI=cloudflare.com
 vless://996de477-3413-445f-bce2-822d620727f0@195.66.27.236:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=C91UR1t1rWUndIL-t33u9yTGuWLtYXaAPOUJyMLy6lI&sid=9523cce221e9&sni=cloudflare.com#🇳🇱 | The Netherlands SNI=cloudflare.com
 vless://996de477-3413-445f-bce2-822d620727f0@72.56.7.19:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=hb18ZK8-pDV9MuiJ2gIrjT7QeOj0ZpZNA8YDVeis_js&sid=9ec46c298e29&sni=speed.cloudflare.com#🇺🇸 | United States SNI=speed.cloudflare.com
@@ -484,8 +484,6 @@ vless://c7cb3bae-8591-40dd-b18c-20919ab6389d@91.84.119.187:443?fp=chrome&pbk=XoF
 vless://c7cb3bae-8591-40dd-b18c-20919ab6389d@91.84.119.187:443?type=tcp&security=reality&fp=chrome&pbk=XoF4tf2G6jbwfd7t4aR8HpRXS3eYJRsGb0RAzPHLwGA&sid=18b9&sni=yahoo.com&spx=/#🇳🇱 | The Netherlands SNI=yahoo.com
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.243.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🇪🇪 | Estonia SNI=www.google.com
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.243.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🇪🇪 | Estonia SNI=www.google.com
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@82.38.63.246:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#🇬🇧 | United Kingdom SNI=www.apple.com
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@82.38.63.246:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#🇬🇧 | United Kingdom SNI=www.apple.com
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@1.161.50.87:443?sni=gogo5.kmj.qzz.io&type=ws&host=gogo5.kmj.qzz.io&path=/fp=chrome&security=tls#🇹🇼 | Taiwan SNI=gogo5.kmj.qzz.io
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@1.161.50.87:443?type=ws&security=tls&fp=chrome&sni=gogo5.kmj.qzz.io&host=gogo5.kmj.qzz.io&serviceName=&quicSecurity=none#🇹🇼 | Taiwan SNI=gogo5.kmj.qzz.io
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@136.0.110.236:443?security=tls&type=ws&host=gogo2.kmj.qzz.io&fp=chrome&sni=gogo2.kmj.qzz.io&path=%2F&encryption=none#🇲🇾 | Malaysia SNI=gogo2.kmj.qzz.io
@@ -546,8 +544,8 @@ vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&fl
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇨🇾 | Cyprus SNI=tradingview.com
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇨🇾 | Cyprus SNI=tradingview.com
 vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@74.208.68.134:443?type=tcp&flow=xtls-rprx-vision&sni=www.google.com&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&fp=chrome&r=695803#🇺🇸 | United States SNI=www.google.com
-vless://e4cdf9e6-586a-474e-b712-84b7ba9f1c06@85021057111778395226.fast.roscomsosal.de:22842?security=reality&type=tcp&sid=fd&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sni=gazprom.hutsharing.com&flow=xtls-rprx-vision&fp=qq&_t=52c59361#🇺🇸 | United States SNI=gazprom.hutsharing.com
-vless://e4cdf9e6-586a-474e-b712-84b7ba9f1c06@85021057111778395226.sber.roscomsosal.de:22842?security=reality&type=tcp&sni=gazprom.hutsharing.com&flow=xtls-rprx-vision&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sid=fd&fp=chrome#🇷🇺 | Russia SNI=gazprom.hutsharing.com
+vless://e4cdf9e6-586a-474e-b712-84b7ba9f1c06@85021057111778395226.fast.roscomsosal.de:22842?security=reality&type=tcp&sid=fd&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sni=gazprom.hutsharing.com&flow=xtls-rprx-vision&fp=qq&_t=52c59361#🇷🇺 | Russia SNI=gazprom.hutsharing.com
+vless://e4cdf9e6-586a-474e-b712-84b7ba9f1c06@85021057111778395226.sber.roscomsosal.de:22842?security=reality&type=tcp&sni=gazprom.hutsharing.com&flow=xtls-rprx-vision&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sid=fd&fp=chrome#🇺🇸 | United States SNI=gazprom.hutsharing.com
 vless://e4cdf9e6-586a-474e-b712-84b7ba9f1c06@fast179.visi.rip:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sid=fd&sni=gazprom.hutsharing.com#🇷🇺 | Russia SNI=gazprom.hutsharing.com
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#🇯🇵 | Japan 
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#🇯🇵 | Japan 
