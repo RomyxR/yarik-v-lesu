@@ -36,8 +36,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ3BJZEF1MW9sd2NPZEdPTXJHNjM3bnNRdWRtRFhRV01MQ24wbw==@66.70.190.236:41344#🇨🇦 | Canada 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ3BJZEF1MW9sd2NPZEdPTXJHNjM3bnNRdWRtRFhRV01MQ24wbw@66.70.190.236:41344#🇨🇦 | Canada 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@mail2.thirdpaull.monster:57327#🇬🇧 | United Kingdom 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@185.5.38.89:57327#🇬🇧 | United Kingdom 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@185.5.38.89:57327#🇬🇧 | United Kingdom 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@mail2.thirdpaull.monster:57327#🇬🇧 | United Kingdom 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@mail2.thirdpaull.monster:57327#🇬🇧 | United Kingdom 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozbzBiSFJ0OGR0UFJrbzlxNjB6dDkzazJ0b0ZuNTh4cA@150.251.138.76:1234#🇳🇱 | The Netherlands 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0anEwd1pBcjJXdzIxNW5qTUlqYXRS@94.20.56.155:8443#🇦🇿 | Azerbaijan 
@@ -113,14 +112,22 @@ ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@35.72.81.2
 ss://YWVzLTEyOC1nY206d2NqTW5pQ09EZmh6MjZQN0wyQnZwRURRZmhvZ2JGVGw@161.129.71.148:17913#🇺🇸 | United States 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#🇨🇦 | Canada 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#🇨🇦 | Canada 
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#🇸🇨 | Seychelles 
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#🇸🇨 | Seychelles 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 | India 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 | India 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#🇩🇪 | Germany 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#🇩🇪 | Germany 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#🇵🇱 | Poland 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#🇵🇱 | Poland 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#🇸🇬 | Singapore 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#🇸🇬 | Singapore 
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#🇳🇱 | The Netherlands 
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#🇳🇱 | The Netherlands 
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#🇺🇸 | United States 
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#🇺🇸 | United States 
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬 | Bulgaria 
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬 | Bulgaria 
 ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0=@103.130.147.40:1122#🇮🇷 | Iran 
 ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0@103.130.147.40:1122#🇮🇷 | Iran 
 trojan://521314@103.83.87.111:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjplay.lxdxo.kdns.fr&path=%2F#🇹🇷 | Türkiye SNI=tjplay.lxdxo.kdns.fr
@@ -128,10 +135,6 @@ trojan://521314@104.168.132.149:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecu
 trojan://521314@104.194.144.187:443?host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#🇬🇧 | United Kingdom SNI=tjplay.lxdxo.kdns.fr
 trojan://521314@104.194.146.86:443?host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#🇬🇧 | United Kingdom SNI=tjplay.lxdxo.kdns.fr
 trojan://521314@107.161.174.99:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjplay.lxdxo.kdns.fr&path=%2F#🇹🇷 | Türkiye SNI=tjplay.lxdxo.kdns.fr
-trojan://BxceQaOe@16.162.220.240:11353?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 | Hong Kong SNI=t.me/ripaojiedian
-trojan://BxceQaOe@16.162.220.240:11353?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 | Hong Kong SNI=t.me/ripaojiedian
-trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰 | Hong Kong SNI=t.me/ripaojiedian
-trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰 | Hong Kong SNI=t.me/ripaojiedian
 trojan://MITIVPN@140.248.185.252:443?security=tls&type=ws&sni=ssl.fastly.com&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa&host=mitivpn--------mitivpn.global.ssl.fastly.net#🇺🇸 | United States SNI=ssl.fastly.com
 trojan://MITIVPN@140.248.185.252:443?type=ws&headerType=none&security=tls&encryption=none&sni=ssl.fastly.com&fp=chrome&alpn=h2%2Chttp%2F1.1&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dusa&host=mitivpn--------mitivpn.global.ssl.fastly.net&insecure=0#🇺🇸 | United States SNI=ssl.fastly.com
 trojan://MITIVPN@199.232.2.79:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de&sni=mitivpn--------mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome#🇺🇸 | United States SNI=mitivpn--------mitivpn.global.ssl.fastly.net
@@ -147,6 +150,8 @@ trojan://MiTiVPN@199.232.78.140:443?security=tls&type=ws&sni=ssl.fastly.com&path
 trojan://MiTiVPN@199.232.78.140:443?type=ws&headerType=none&security=tls&encryption=none&sni=ssl.fastly.com&fp=chrome&alpn=h2%2Chttp%2F1.1&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&insecure=0#🇺🇸 | United States SNI=ssl.fastly.com
 trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?security=tls#🇲🇽 | Mexico 
 trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?security=tls#🇲🇽 | Mexico 
+trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#🇦🇺 | Australia 
+trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#🇦🇺 | Australia 
 trojan://TrojanPass2026!@2.26.54.174:8448?security=tls#🇩🇪 | Germany 
 trojan://TrojanPass2026!@2.26.54.174:8448?security=tls#🇩🇪 | Germany 
 trojan://XG59623478@assuring-werewolf.rooster465.autos:443?allowInsecure=1#🇯🇵 | Japan 
@@ -274,12 +279,14 @@ trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603/?type=tcp&securi
 trojan://zBfIAxaXtz@45.130.125.2:443?security=tls&type=ws&sni=sn.farxmode.ir&path=/db&host=sn.farxmode.ir#🇸🇨 | Seychelles SNI=sn.farxmode.ir
 trojan://zBfIAxaXtz@45.130.125.2:443?security=tls&type=ws&sni=sn.farxmode.ir&path=/db&host=sn.farxmode.ir#🇸🇨 | Seychelles SNI=sn.farxmode.ir
 vless://00cb997f-aebb-4c0b-93de-616962738aa0@news.zoom.us:8443?type=ws&security=tls&fp=chrome&sni=apexcloud.ggff.net&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🇺🇸 | United States SNI=apexcloud.ggff.net
-vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#🇹🇷 | Türkiye 
-vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#🇹🇷 | Türkiye 
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?encryption=none&type=tcp&headerType=http&host=snapp.ir#🇹🇷 | Türkiye 
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?encryption=none&type=tcp&headerType=http&host=snapp.ir#🇹🇷 | Türkiye 
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=%2F&security=none&encryption=none&type=ws#🇳🇱 | The Netherlands 
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=%2F&security=none&encryption=none&type=ws#🇳🇱 | The Netherlands 
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#🇺🇸 | United States SNI=octopusss.net
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#🇺🇸 | United States SNI=octopusss.net
+vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?security=reality&encryption=none&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=205f8d#🇳🇱 | The Netherlands SNI=www.nvidia.com
+vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?security=reality&encryption=none&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=205f8d#🇳🇱 | The Netherlands SNI=www.nvidia.com
 vless://0b0dd312-eecb-cb9d-fe12-6d0c1df30ae4@ansooyefilter6.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter6.up.railway.app&path=/ws/0b0dd312-eecb-cb9d-fe12-6d0c1df30ae4&sni=ansooyefilter6.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸 | United States SNI=ansooyefilter6.up.railway.app
 vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?security=reality&encryption=none&pbk=PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#🇳🇱 | The Netherlands SNI=cloudflare.com
 vless://15634a62-7add-473b-a76c-cf26d158850d@89.105.206.151:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#🇳🇱 | The Netherlands SNI=nl.quattro-tech.ru
@@ -297,8 +304,14 @@ vless://33c23181-92e3-4f7c-8c66-f62d1ea6c55b@185.28.172.123:443?security=none&en
 vless://33c23181-92e3-4f7c-8c66-f62d1ea6c55b@185.28.172.123:443?security=none&encryption=none&headerType=none&type=tcp#🇰🇬 | Kyrgyzstan 
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#🇫🇮 | Finland SNI=dipvpn.ru
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#🇫🇮 | Finland SNI=dipvpn.ru
+vless://36644091-0cec-47fe-9955-97c3f424baf7@54.37.2.131:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇫🇷 | France SNI=play.google.com
+vless://36644091-0cec-47fe-9955-97c3f424baf7@54.37.2.131:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇫🇷 | France SNI=play.google.com
 vless://36644091-0cec-47fe-9955-97c3f424baf7@all104.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇩🇪 | Germany SNI=play.google.com
 vless://36644091-0cec-47fe-9955-97c3f424baf7@all104.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇩🇪 | Germany SNI=play.google.com
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all112.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇩🇪 | Germany SNI=play.google.com
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all112.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇩🇪 | Germany SNI=play.google.com
+vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?encryption=none&fp=chrome&security=tls&serviceName=grpc-api&sni=gbos2.osvp.online&type=grpc#🇬🇧 | United Kingdom SNI=gbos2.osvp.online
+vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?encryption=none&fp=chrome&security=tls&serviceName=grpc-api&sni=gbos2.osvp.online&type=grpc#🇬🇧 | United Kingdom SNI=gbos2.osvp.online
 vless://3a5aa494-e481-4fa4-bc0b-5961a94f89a4@162.19.181.194:56548?encryption=none&security=none&type=tcp#🇫🇷 | France 
 vless://3a5aa494-e481-4fa4-bc0b-5961a94f89a4@162.19.181.194:56548?encryption=none&security=none&type=tcp#🇫🇷 | France 
 vless://3bdb8c70-da05-483a-aa56-0e252c767f16@143.14.22.32:443?sni=cache-5673.atlanta-games.com&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#🇸🇪 | Sweden SNI=cache-5673.atlanta-games.com
@@ -316,15 +329,19 @@ vless://4ec19a5b-4939-4836-9d2d-76ff34844fde@45.206.52.204:443?type=tcp&headerTy
 vless://5117ad77-cd9a-46e9-995b-b601b0b5e435@109.69.218.169:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&sni=cdn-s3.opengate.su#🇧🇪 | Belgium SNI=cdn-s3.opengate.su
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?security=reality&type=tcp&packetEncoding=xudp&sni=uk.bvps.cloud&fp=chrome&flow=xtls-rprx-vision&sid=60debb3ab744d8ce&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&encryption=none#🇬🇧 | United Kingdom SNI=uk.bvps.cloud
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?security=reality&type=tcp&packetEncoding=xudp&sni=uk.bvps.cloud&fp=chrome&flow=xtls-rprx-vision&sid=60debb3ab744d8ce&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&encryption=none#🇬🇧 | United Kingdom SNI=uk.bvps.cloud
+vless://599c9a3d-29e2-4a85-9159-eb92a96bdcba@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇮 | Finland SNI=bot.sobhanpor.ir
+vless://599c9a3d-29e2-4a85-9159-eb92a96bdcba@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇮 | Finland SNI=bot.sobhanpor.ir
 vless://5d9fb6d3-8879-49b5-a0f8-1c723d15bb74@top699800449.mwscdn.ru:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/xhttppath&security=tls&alpn=h2&encryption=none&insecure=0&host=&fp=chrome&type=xhttp&allowI#🇷🇺 | Russia 
 vless://5d9fb6d3-8879-49b5-a0f8-1c723d15bb74@top699800449.mwscdn.ru:443?mode=auto&path=/xhttppath&security=tls&alpn=h2&encryption=none&insecure=0&host=top699800449.mwscdn.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=top699800449.mwscdn.ru#🇷🇺 | Russia SNI=top699800449.mwscdn.ru
 vless://612c872d-1370-4109-8644-f0755f97e33f@80.253.251.157:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=1680&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&encryption=none#🇩🇪 | Germany SNI=www.samsung.com
 vless://612c872d-1370-4109-8644-f0755f97e33f@80.253.251.157:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=1680&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&encryption=none#🇩🇪 | Germany SNI=www.samsung.com
+vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=&encryption=none&type=ws#🇪🇸 | Spain 
+vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=&encryption=none&type=ws#🇪🇸 | Spain 
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c077229044b68285#🇸🇪 | Sweden SNI=play.google.com
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c077229044b68285#🇸🇪 | Sweden SNI=play.google.com
 vless://6ef949ca-e300-45e6-9abc-c1f62d030239@s58225.cdn.ngenix.net:443?encryption=none&security=tls&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fv1%2Fdata%2Fsync%2F#🇷🇺 | Russia 
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.152:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#🇸🇨 | Seychelles SNI=storage.yandex.net
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.152:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#🇸🇨 | Seychelles SNI=storage.yandex.net
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.152:443?_t=94268a25&flow=xtls-rprx-vision&fp=firefox&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#🇸🇨 | Seychelles SNI=storage.yandex.net
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.152:443?_t=94268a25&flow=xtls-rprx-vision&fp=firefox&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#🇸🇨 | Seychelles SNI=storage.yandex.net
 vless://76138152-68ea-471f-8c6e-c440907058cf@172.96.192.114:44855?encryption=none&security=tls&sni=us2.wxgqlfx.icu&alpn=http%2F1.1&fp=chrome&type=ws&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx&allowInsecure=0&insecure=0#🇺🇸 | United States SNI=us2.wxgqlfx.icu
 vless://76138152-68ea-471f-8c6e-c440907058cf@172.96.192.114:44855?encryption=none&type=ws&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx&security=tls&fp=chrome&sni=us2.wxgqlfx.icu#🇺🇸 | United States SNI=us2.wxgqlfx.icu
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@ro.spectrum.vu:443?encryption=none&type=grpc&security=reality&sni=ro.spectrum.vu&pbk=Ia9JdXTzAzoqPEkarBg6HFdXrSKYcUh_dt59tyMjukk&sid=c9e0a2f4b6d8&fp=chrome&serviceName=vless#🇷🇴 | Romania SNI=ro.spectrum.vu
@@ -344,11 +361,15 @@ vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=%2Fvip1&amp
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=%2Fvip1&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=hamshahriesfahan.com&amp;type=ws&amp;allowInsecure=1&amp;sni=speedtest.net#🇺🇸 | United States 
 vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#🇷🇺 | Russia SNI=eh.vk.ru
 vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#🇷🇺 | Russia SNI=eh.vk.ru
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.speedmeter.shop:8880?encryption=none&type=grpc&mode=gun#🇮🇹 | Italy 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.speedmeter.shop:8880?encryption=none&type=grpc&mode=gun#🇮🇹 | Italy 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 | Italy 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 | Italy 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 | Italy 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 | Italy 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?encryption=none&security=none&sni=&type=grpc&alpn=&host=&path=#🇮🇹 | Italy 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?encryption=none&security=none&sni=&type=grpc&alpn=&host=&path=#🇮🇹 | Italy 
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?encryption=none&security=tls&sni=railway-production-b185.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=railway-production-b185.up.railway.app&path=%2Fws#🇺🇸 | United States SNI=railway-production-b185.up.railway.app
+vless://985e094b-dc55-477a-bf0d-f4dfcb118164@benitoo1.naxm.ir:2086?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=benitoo.naxm.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=benitoo.naxm.ir#🇩🇪 | Germany SNI=benitoo.naxm.ir
+vless://985e094b-dc55-477a-bf0d-f4dfcb118164@benitoo1.naxm.ir:2086?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=benitoo.naxm.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=benitoo.naxm.ir#🇩🇪 | Germany SNI=benitoo.naxm.ir
 vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?encryption=none&security=none&type=tcp#🇩🇪 | Germany 
 vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?encryption=none&security=none&type=tcp#🇩🇪 | Germany 
 vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@62.60.248.105:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=kwKk436AjoyIrYSQzm3VoGLoFDLIIYRGLQ-RRVFUH20&amp;fp=chrome&amp;spx=%2FKPC757WiVsr9e7X&amp;type=grpc&amp;serviceName=grpc-bf898949e88a9c94&amp;sni=www.amazon.com&amp;sid=b9b08cbb#🇮🇷 | Iran 
@@ -361,13 +382,17 @@ vless://ab181813-5879-e2b9-1534-70aac9770fb7@rvg-production-0fab.up.railway.app:
 vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&security=reality&sid=e1a78782&sni=www.cloudflare.com&type=tcp#🇩🇪 | Germany SNI=www.cloudflare.com
 vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&security=reality&sid=e1a78782&sni=www.cloudflare.com&type=tcp#🇩🇪 | Germany SNI=www.cloudflare.com
 vless://ae218f04-41e1-483b-287b-7c1e9b02d2a2@nane-hh7-cr7h.up.railway.app:443?path=%2Fws%2Fae218f04-41e1-483b-287b-7c1e9b02d2a2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nane-hh7-cr7h.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=nane-hh7-cr7h.up.railway.app#🇺🇸 | United States SNI=nane-hh7-cr7h.up.railway.app
-vless://b1a31ff7-4a4c-45ed-b4db-1c46a78f961c@87.236.22.165:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=c-37qP52qpEWzt4Na3_MB8IeqrzuF2dbYGIyXPSgcSI&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇷🇺 | Russia SNI=ads.x5.ru
-vless://b1a31ff7-4a4c-45ed-b4db-1c46a78f961c@87.236.22.165:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=c-37qP52qpEWzt4Na3_MB8IeqrzuF2dbYGIyXPSgcSI&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇷🇺 | Russia SNI=ads.x5.ru
+vless://b4229f01-45e5-4da1-9471-b76227fa5dc8@178.105.176.9:6300?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&type=tcp&security=reality&fp=qq&headerType=none#🇩🇪 | Germany SNI=play.google.com
+vless://b4229f01-45e5-4da1-9471-b76227fa5dc8@178.105.176.9:6300?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&type=tcp&security=reality&fp=qq&headerType=none#🇩🇪 | Germany SNI=play.google.com
+vless://b521cf5a-91a8-7fad-3702-698a57b8a50e@ansooyefilter-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-production.up.railway.app&path=/ws/b521cf5a-91a8-7fad-3702-698a57b8a50e&sni=ansooyefilter-production.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸 | United States SNI=ansooyefilter-production.up.railway.app
+vless://b521cf5a-91a8-7fad-3702-698a57b8a50e@ansooyefilter-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-production.up.railway.app&path=/ws/b521cf5a-91a8-7fad-3702-698a57b8a50e&sni=ansooyefilter-production.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸 | United States SNI=ansooyefilter-production.up.railway.app
 vless://b521cf5a-91a8-7fad-3702-698a57b8a50e@ansooyefilter-production.up.railway.app:443?path=/ws/b521cf5a-91a8-7fad-3702-698a57b8a50e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#🇺🇸 | United States 
 vless://b521cf5a-91a8-7fad-3702-698a57b8a50e@ansooyefilter-production.up.railway.app:443?type=ws&security=tls&path=/ws/b521cf5a-91a8-7fad-3702-698a57b8a50e&sni=ansooyefilter-production.up.railway.app&fp=chrome#🇺🇸 | United States SNI=ansooyefilter-production.up.railway.app
 vless://b6d7c0af-fa36-12e6-60d2-a4260129235b@ansooyefilter4.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter4.up.railway.app&path=/ws/b6d7c0af-fa36-12e6-60d2-a4260129235b&sni=ansooyefilter4.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸 | United States SNI=ansooyefilter4.up.railway.app
 vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#🇺🇸 | United States SNI=deepl.com
 vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#🇺🇸 | United States SNI=deepl.com
+vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.177.179:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&security=reality&sid=bd72&sni=deepl.com&type=tcp#🇺🇸 | United States SNI=deepl.com
+vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.177.179:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&security=reality&sid=bd72&sni=deepl.com&type=tcp#🇺🇸 | United States SNI=deepl.com
 vless://b9a83acf-44ff-44a5-b8bc-417c9f82ae11@45.196.193.116:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003&flow=xtls-rprx-vision#🇸🇨 | Seychelles SNI=storage.yandex.net
 vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025?security=reality&encryption=none&pbk=w-7OnHTgZcqOMrpIADIVnpAcbyColg9Y9w3BYpFeTg8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=06e557c2cc84390f#🇫🇷 | France SNI=www.googletagmanager.com
 vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025?security=reality&encryption=none&pbk=w-7OnHTgZcqOMrpIADIVnpAcbyColg9Y9w3BYpFeTg8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=06e557c2cc84390f#🇫🇷 | France SNI=www.googletagmanager.com
